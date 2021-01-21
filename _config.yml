@@ -1,0 +1,9 @@
+# Site settings
+title: Today I Learned!
+author:
+  name: Aziz Saya
+  email: azizsaya@gmail.com
+description: "Today I Learned!"
+
+# Build settings
+remote_theme: jekyll/minima
