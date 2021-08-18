@@ -7,8 +7,7 @@ tags: TIL
 # GIT Cheatsheat
 ### Cloning a repository
 
-> git clone
-> https://gitlab.com/collaborative-coding-with-git/meetux-simple-example.git
+    git clone https://gitlab.com/collaborative-coding-with-git/meetux-simple-example.git
 
 ### Exploring a cloned repository with the git graph in the terminal
 
