@@ -4,7 +4,6 @@ title: GIT Cheatsheat
 tags: TIL
 ---
 
-# GIT Cheatsheat
 ### Cloning a repository
 
     git clone https://gitlab.com/collaborative-coding-with-git/meetux-simple-example.git
@@ -266,6 +265,7 @@ The following command will show the reference log for the branch head of the eco
 
 ### Additional Reosurces:
 https://www.git-scm.com/doc
+
 https://www.git-scm.com/book/en/v2
 
 
