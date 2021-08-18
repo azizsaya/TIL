@@ -125,8 +125,9 @@ Common branch names: HotFix, BugFix
     git branch –a  --- now you can see the remote tracking branch in your local repository.
 
 imp: this branch is not connected to your local graph in any way
-git log --all --decorate --oneline --graph 
-git log origin/master --all --decorate --oneline --graph 
+
+    git log --all --decorate --oneline --graph 
+    git log origin/master --all --decorate --oneline --graph 
 
 
 ## Code Integration
@@ -264,6 +265,7 @@ Reference logs are kept for all reference heads. This means you can check the re
 The following command will show the reference log for the branch head of the ecommerce-feature branch.
 
 ### Additional Reosurces:
+
 https://www.git-scm.com/doc
 
 https://www.git-scm.com/book/en/v2
