@@ -13,7 +13,8 @@ tags: TIL
     git log --all --oneline --graph
 
 Switch to a branch (switches latest commit on the branch)
-git switch [branch-name]
+
+    git switch [branch-name]
 
 ### Switch to a specific commit
 
@@ -41,7 +42,7 @@ git switch [branch-name]
 
 4. Commit it
 
-    git commit –m “fix Java bug”
+       git commit –m “fix Java bug”
 
 
 ### Creating in new project
