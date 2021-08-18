@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIT Cheatsheat
+title: GIT Cheatsheet
 tags: TIL
 ---
 
